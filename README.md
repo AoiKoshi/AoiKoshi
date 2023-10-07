@@ -9,4 +9,4 @@ My primary role in projects so far has been gameplay programming and design, wit
 Many of my projects so far have been developed in Unity utilising C# following an agile development methodology. I am also acquainted with Unreal Engine, developing my skill with C++ and Blueprints.
 
 ### [Demo collection](https://github.com/AoiKoshi/Coding-Examples/wiki)
-### [LinkedIn](https://www.linkedin.com/in/kevindacruz/)
+### [LinkedIn](https://www.linkedin.com/in/kevindacruz00/)
